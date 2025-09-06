@@ -1,0 +1,589 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(20, 50%, 98%);
+}
+
+.first-section {
+    margin-top: 90px;
+    margin-left: 110px;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.second-section {
+    display: flex;
+
+}
+
+.waffle-section {
+    display: block;
+}
+
+.waffle-image {
+    margin-left: 110px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+
+}
+
+.waffle-button {
+    display: flex;
+    width: 210px;
+    margin-left: 180px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-waffle-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-waffle-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.waffle {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 110px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.waffle-berries {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 110px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.waffle-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 110px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.creme-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.creme-button {
+    display: flex;
+    width: 210px;
+    margin-left: 90px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-creme-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-creme-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.creme {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 38px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.creme-brulla {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.creme-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.macaron-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.macaron-button {
+    display: flex;
+    width: 210px;
+    margin-left: 90px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-macaron-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-macaron-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.macaron {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 38px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.macaron-mix {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.macaron-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.third-section {
+    display: flex;
+
+}
+
+.tiramisu-section {
+    display: block;
+}
+
+.tiramisu-image {
+    margin-left: 110px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+
+}
+
+.tiramisu-button {
+    display: flex;
+    width: 210px;
+    margin-left: 180px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-tiramisu-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-tiramisu-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.tiramisu {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 110px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.tiramisu-classic {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 110px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.tiramisu-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 110px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.baklava-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.baklava-button {
+    display: flex;
+    width: 210px;
+    margin-left: 90px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-baklava-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-baklava-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.baklava {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 38px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.pistachio-baklava {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.baklava-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.pie-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.pie-button {
+    display: flex;
+    width: 210px;
+    margin-left: 90px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-pie-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-pie-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.pie {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 38px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.lemon-pie {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.pie-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.fourth-section {
+    display: flex;
+
+}
+
+.cake-section {
+    display: block;
+}
+
+.cake-image {
+    margin-left: 110px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+
+}
+
+.cake-button {
+    display: flex;
+    width: 210px;
+    margin-left: 180px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-cake-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-cake-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.cake {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 110px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.red-cake {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 110px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.cake-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 110px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.brownie-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.brownie-button {
+    display: flex;
+    width: 210px;
+    margin-left: 90px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-brownie-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-brownie-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.brownie {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 38px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.salted-brownie {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.brownie-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.ponna-image {
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.ponna-button {
+    display: flex;
+    width: 210px;
+    margin-left: 90px;
+    height: 53px;
+    border-radius: 20px;
+    background-color: hsl(20, 50%, 98%);
+    margin-top: -30px;
+    position: absolute;
+    border-color: hsl(14, 25%, 72%);
+}
+
+.button-ponna-image {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.button-ponna-text {
+    font-size: 17px;
+    margin-top: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.ponna {
+    margin-top: 50px;
+    font-size: 19px;
+    margin-left: 38px;
+    color: hsl(7, 20%, 60%);
+    font-weight: bold;
+}
+
+.ponna-cotta {
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 65%, 9%);
+    font-weight: 600;
+}
+
+
+.ponna-price {
+    margin-top: 5px;
+    font-size: 24px;
+    margin-left: 38px;
+    color: hsl(14, 86%, 42%);
+    font-weight: bold;
+}
+
+.cart-section {
+    margin-top: -50px;
+    height: 350px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+.cart {
+    font-size: 30px;
+    color: hsl(14, 86%, 42%);
+    margin-top: 40px;
+    margin-left: 40px;
+    font-weight: 900;
+}
+
+.cart-image {
+    margin-top: 55px;
+    margin-left: 110px;
+}
+
+.added-item {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 60px;
+    color: hsl(7, 20%, 60%);
+}
