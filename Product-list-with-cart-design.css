@@ -27,15 +27,15 @@ body {
 .waffle-image {
     margin-left: 110px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 
 }
 
 .waffle-button {
     display: flex;
-    width: 210px;
-    margin-left: 180px;
+    width: 150px;
+    margin-left: 160px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -45,15 +45,15 @@ body {
 }
 
 .button-waffle-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-waffle-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -85,13 +85,13 @@ body {
 .creme-image {
     margin-left: 30px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 }
 
 .creme-button {
     display: flex;
-    width: 210px;
+    width: 150px;
     margin-left: 90px;
     height: 53px;
     border-radius: 20px;
@@ -102,15 +102,15 @@ body {
 }
 
 .button-creme-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-creme-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -142,14 +142,14 @@ body {
 .macaron-image {
     margin-left: 30px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 }
 
 .macaron-button {
     display: flex;
-    width: 210px;
-    margin-left: 90px;
+    width: 150px;
+    margin-left: 80px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -159,15 +159,15 @@ body {
 }
 
 .button-macaron-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-macaron-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -208,15 +208,15 @@ body {
 .tiramisu-image {
     margin-left: 110px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 
 }
 
 .tiramisu-button {
     display: flex;
-    width: 210px;
-    margin-left: 180px;
+    width: 150px;
+    margin-left: 160px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -226,15 +226,15 @@ body {
 }
 
 .button-tiramisu-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-tiramisu-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -266,14 +266,14 @@ body {
 .baklava-image {
     margin-left: 30px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 }
 
 .baklava-button {
     display: flex;
-    width: 210px;
-    margin-left: 90px;
+    width: 150px;
+    margin-left: 80px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -283,15 +283,15 @@ body {
 }
 
 .button-baklava-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 13px;
 }
 
 .button-baklava-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -323,14 +323,14 @@ body {
 .pie-image {
     margin-left: 30px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 }
 
 .pie-button {
     display: flex;
-    width: 210px;
-    margin-left: 90px;
+    width: 150px;
+    margin-left: 80px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -340,15 +340,15 @@ body {
 }
 
 .button-pie-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-pie-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -389,15 +389,15 @@ body {
 .cake-image {
     margin-left: 110px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 
 }
 
 .cake-button {
     display: flex;
-    width: 210px;
-    margin-left: 180px;
+    width: 150px;
+    margin-left: 160px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -407,15 +407,15 @@ body {
 }
 
 .button-cake-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-cake-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -447,14 +447,14 @@ body {
 .brownie-image {
     margin-left: 30px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 }
 
 .brownie-button {
     display: flex;
-    width: 210px;
-    margin-left: 90px;
+    width: 150px;
+    margin-left: 80px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -464,15 +464,15 @@ body {
 }
 
 .button-brownie-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-brownie-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -504,14 +504,14 @@ body {
 .ponna-image {
     margin-left: 30px;
     margin-top: 50px;
-    width: 350px;
+    width: 250px;
     border-radius: 20px;
 }
 
 .ponna-button {
     display: flex;
-    width: 210px;
-    margin-left: 90px;
+    width: 150px;
+    margin-left: 80px;
     height: 53px;
     border-radius: 20px;
     background-color: hsl(20, 50%, 98%);
@@ -521,15 +521,15 @@ body {
 }
 
 .button-ponna-image {
-    height: 25px;
-    margin-top: 10px;
-    margin-left: 35px;
+    height: 23px;
+    margin-top: 12px;
+    margin-left: 23px;
 }
 
 .button-ponna-text {
-    font-size: 17px;
-    margin-top: 13px;
-    margin-left: 20px;
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: 10px;
     font-weight: 600;
 }
 
@@ -560,8 +560,8 @@ body {
 
 .cart-section {
     margin-top: -50px;
-    height: 350px;
-    width: 400px;
+    height: 310px;
+    width: 370px;
     border-radius: 20px;
     margin-left: 30px;
     background-color: white;
@@ -576,14 +576,14 @@ body {
 }
 
 .cart-image {
-    margin-top: 55px;
+    margin-top: 40px;
     margin-left: 110px;
 }
 
 .added-item {
     font-size: 18px;
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-left: 60px;
     color: hsl(7, 20%, 60%);
 }
